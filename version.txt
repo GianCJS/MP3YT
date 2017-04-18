@@ -1,0 +1,29 @@
+=====
+0.1.6
+=====
+rework popup
+add contact mail form
+change all css
+
+=====
+0.1.5
+=====
+Change botons color
+
+=====
+0.1.4
+=====
+Rework popup
+add update file
+
+=====
+0.1.3
+=====
+Add google analytics
+
+
+=====
+0.1.2
+=====
+Add Bitcoin donation system
+fix paypal donation system
